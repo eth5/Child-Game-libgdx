@@ -1,0 +1,265 @@
+
+item1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+airplane
+  rotate: false
+  xy: 506, 438
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+apple
+  rotate: false
+  xy: 506, 690
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 521, 1446
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+baraban
+  rotate: false
+  xy: 1262, 1194
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+bear
+  rotate: false
+  xy: 254, 1010
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+belka
+  rotate: false
+  xy: 1529, 1698
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+chajnik
+  rotate: false
+  xy: 506, 942
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+clock
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+colors
+  rotate: false
+  xy: 506, 186
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+cow
+  rotate: false
+  xy: 2, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+dog
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+elka
+  rotate: false
+  xy: 1277, 1698
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+firecar
+  rotate: false
+  xy: 254, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 773, 1698
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+grib
+  rotate: false
+  xy: 2, 1262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 1514
+  size: 517, 434
+  orig: 517, 434
+  offset: 0, 0
+  index: -1
+horse
+  rotate: false
+  xy: 254, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+lion
+  rotate: false
+  xy: 2, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+mobile
+  rotate: false
+  xy: 254, 1262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+monke
+  rotate: false
+  xy: 1025, 1698
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+morkov
+  rotate: false
+  xy: 1277, 1446
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+photo
+  rotate: false
+  xy: 758, 438
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+pig
+  rotate: false
+  xy: 758, 1194
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+pilesos
+  rotate: false
+  xy: 758, 690
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+popka
+  rotate: false
+  xy: 758, 942
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+raduga
+  rotate: false
+  xy: 773, 1446
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+rain
+  rotate: false
+  xy: 1010, 942
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+river
+  rotate: false
+  xy: 1781, 1698
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+romashka
+  rotate: false
+  xy: 1529, 1446
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+shnowman
+  rotate: false
+  xy: 2, 1010
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+slon
+  rotate: false
+  xy: 521, 1698
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+sova
+  rotate: false
+  xy: 1010, 1194
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 254, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 1781, 1446
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+train
+  rotate: false
+  xy: 254, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+velik
+  rotate: false
+  xy: 1025, 1446
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+zemlyanika
+  rotate: false
+  xy: 506, 1194
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
