@@ -9,4 +9,5 @@ public interface IAssets {
     Array<TextureAtlas.AtlasRegion> getArrayTextures(String animationName, int frames);
     BitmapFont getFont(String name, int size);
     void dispose();
+    void clear();
 }

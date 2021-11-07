@@ -4,6 +4,7 @@ import com.badlogic.gdx.assets.AssetManager;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.BitmapFontCache;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
+import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.utils.Array;
 import com.badlogic.gdx.utils.ObjectMap;
 import pro.it_dev.childgame.assets.font.FontBuilder;
@@ -15,9 +16,9 @@ public class AssetWrapper implements IAssets{
     public AssetWrapper(AssetManager assetManager){
         if (!assetManager.isFinished()) throw new IllegalStateException("Принимается только загруженный ассет!");
         am = assetManager;
-        prepareAssetManager();
     }
-    private void prepareAssetManager() {
+
+    public void prepareAfterLoad() {
         Array<TextureAtlas> array = new Array<>();
         am.getAll(TextureAtlas.class, array);
         for (TextureAtlas atlas : array) {
@@ -55,8 +56,14 @@ public class AssetWrapper implements IAssets{
         }
     }
 
+
     @Override
     public void dispose() {
+        am.dispose();
+    }
 
+    @Override
+    public void clear() {
+        am.clear();
     }
 }

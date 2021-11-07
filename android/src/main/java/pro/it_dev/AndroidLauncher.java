@@ -1,4 +1,4 @@
-package pro.it_dev
+package pro.it_dev;
 
 import android.os.Bundle;
 

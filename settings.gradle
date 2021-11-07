@@ -1,1 +1,6 @@
 include 'android', 'core', 'lwjgl3'
+include 'domain'
+include 'editor'
+include 'editor'
+include 'common'
+
